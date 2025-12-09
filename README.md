@@ -35,10 +35,11 @@ Built with **Streamlit** for UI and a local LLM model (via Ollama) for scoring a
 ## 📂 Project Structure
 AI-Resume-Evaluator/
 │
-├── app.py # Streamlit UI: PDF upload & resume input
-├── main.py # LLM prompt creation + scoring logic
-├── requirements.txt # Dependencies
+├── app.py             # Streamlit UI: PDF upload & resume input
+├── main.py            # LLM prompt creation + scoring logic
+├── requirements.txt   # Dependencies
 └── README.md
+
 
 
 
