@@ -4,6 +4,15 @@ This application analyzes a candidate’s resume against a job description using
 Built with **Streamlit** for UI and a local LLM model (via Ollama) for scoring accuracy.
 
 ---
+📂 Project Structure
+AI-Resume-Evaluator/
+│
+├── app.py             # Streamlit UI: PDF upload & resume input
+├── main.py            # LLM prompt creation + scoring logic
+├── requirements.txt   # Dependencies
+└── README.md
+
+---
 
 ## 🚀 Features
 
